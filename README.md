@@ -1,4 +1,4 @@
-# vue-movies
+# vue-movies - top list 2018
 
 A frontend application built to consume Movies-API, presented as an expanding list of movies. The information provided includes a short movie description, age rating and IMBD score. Users are able to vote for their favourite movie which are listed in order of received number of votes.
 
