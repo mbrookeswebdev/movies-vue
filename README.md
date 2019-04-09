@@ -8,7 +8,7 @@ A frontend application built to consume Movies-API, presented as an expanding li
 
 Deployed for demonstration purposes on DigitalOcean through Cloudways. 
 
-[Project screenshots.](http://phpstack-228259-800159.cloudwaysapps.com/screenshots/movies.html)
+![Top List 2018](http://phpstack-228259-800159.cloudwaysapps.com/screenshots/movies.png)
 
 If you would like to see it live, please send me a message.
 
